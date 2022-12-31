@@ -27,8 +27,4 @@ https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
 9: Outcome: Class variable (0 or 1) 268 of 768 are 1, the others are 0
 
 
-### App Link
-=============
 
-
-https://ml-ai-diabetes.herokuapp.com/
